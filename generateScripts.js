@@ -1,5 +1,5 @@
-for(element in list){
+for(element in headers){
 	document.write(
-		'<script src="' + list[element] + '.js"></script>'
+		'<script src="' + headers[element] + '.js"></script>'
 	)
 }
