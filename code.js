@@ -1,1 +1,1 @@
-﻿alert('its code.js')
+﻿

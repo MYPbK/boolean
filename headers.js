@@ -1,4 +1,3 @@
 let headers = [
-	'code',
-	'main'
+	'sort'
 	]
